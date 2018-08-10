@@ -1,4 +1,6 @@
-/*instanciamos vue*/ 
+
+
+/*instanciamos vue*/
 var app=new Vue({
     el:'#app',
     data:{
