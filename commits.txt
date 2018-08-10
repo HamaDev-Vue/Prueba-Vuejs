@@ -1,0 +1,23 @@
+commit 12e262784adfef94297e98bc807aaa3ea7294f66
+Author: Herman Morales Ara <hmoralesara@gmail.com>
+Date:   Fri Aug 10 11:41:49 2018 -0500
+
+    Agregando estilos
+
+commit aac2546e76bfdde6931d69e3ef2cd247eba31e53
+Author: Herman Morales Ara <hmoralesara@gmail.com>
+Date:   Thu Aug 9 23:17:11 2018 -0500
+
+    agregando .idea
+
+commit d4ee9efbfd0d1829ea8d4401ce355cbff56de24c
+Author: Herman Morales Ara <hmoralesara@gmail.com>
+Date:   Thu Aug 9 22:57:20 2018 -0500
+
+    Agregamos el titulo a la pagina principal
+
+commit 8b47e4d76e50e484900f541b9b6b4970418bf2cd
+Author: Herman Morales Ara <hmoralesara@gmail.com>
+Date:   Thu Aug 9 20:21:51 2018 -0500
+
+    Iniciando git en nuestro proyecto
